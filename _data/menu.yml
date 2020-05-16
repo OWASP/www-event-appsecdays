@@ -1,0 +1,21 @@
+- title: PROGRAM
+  items:
+    - title: Schedule
+      url : /trainings/
+    - title: Talks
+      url : /keynotes/
+    - title: Trainings
+      url : /trainings/
+    - title: Capture the Flag
+      url : /ctf/
+    - title: Capture the Swag
+      url : /sponsors/swag/
+- title: SPONSORING
+  url: /sponsors/
+- title: ABOUT
+  items:
+    - title: How to Connect
+      url : /venue/about/
+    - title: OWASP Foundation
+      url  : https://owasp.org/
+      opentab: true

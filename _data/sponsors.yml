@@ -1,0 +1,21 @@
+
+#- logo: https://owasp.org/assets/images/corp-member-logo/secure-code-warrior.png
+#   name: Secure Code Warrior
+#   url: https://securecodewarrior.com
+#   type: Gold
+- logo: https://owasp.org/assets/images/corp-member-logo/acunetix.png
+  name: Acunetix
+  url: https://www.acunetix.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20
+  type: corporate
+- logo: https://owasp.org/assets/images/corp-member-logo/devsecopsacad.png
+  name: DevSecOps Academy 
+  url: https://us20.list-manage.com/survey?u=df838d09f83cf22ff57a71110&id=b37d5ed935
+  type: corporate
+- logo: https://owasp.org/assets/images/corp-member-logo/netsparker.png
+  name: netsparker
+  url: https://www.netsparker.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20
+  type: corporate
+- logo: https://owasp.org/assets/images/corp-member-logo/zeronorth.png
+  name: ZeroNorth
+  url: https://www.zeronorth.io/owasp-virtual-appsec-day/
+  type: corporate
