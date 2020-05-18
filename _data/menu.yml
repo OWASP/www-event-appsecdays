@@ -1,4 +1,4 @@
-- title: Upcoming
+- title: PROGRAM
   items:
     - title: June
       url : https://june.appsecdays.org
@@ -6,9 +6,11 @@
       url : https://july.appsecdays.org
     - title: August
       url : https://august.appsecdays.org
-- title: Sponsoring
+    - title: April (past)
+      url : https://april.appsecdays.org
+- title: SPONSORING
   url: /sponsors/
-- title: About
+- title: ABOUT
   items:
     - title: How to Connect
       url : /venue/about/

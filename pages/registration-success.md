@@ -17,4 +17,4 @@ layout: event_noheader
 - Tuesday, April 28th through Wednesday, April 29th, 2020
 
 
-Any lingering questions contact [events@owasp.com](mailto:events@owasp.com?subject=Virtual%20AppSecDays%20April%202020%20Registered).
+Any lingering questions contact [events@owasp.com](mailto:events@owasp.com?subject=Virtual%20AppSecDays%20Registered).

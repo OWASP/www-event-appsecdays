@@ -1,25 +1,7 @@
-- image: ajv_headshot.png
-  name: Andrew van der Stock
-  title: 
-  bio: "Andrew is a long-standing contributor to and member of OWASP, having lead the OWASP Developer Guide 2.0, OWASP Top 10 2007 and 2017, and Application Security Verification Standard projects. He was previously a board member from 2015-2018. He is currently working on the OWASP Top 10 2020."
-  subject: OWASP Top 10 2020 
-  abstract: "The OWASP Top 10 2020 is coming. The OWASP Top 10 is one of OWASP's core flagship projects, and for better or worse, despite being an awareness document, is commonly used as a standard. Therefore, we need to get it right and include the application security community's buy-in on the risks and mitigations. Learn about the current progress, what needs to be done, and how you can help by contributing data and expertise. We plan to release the OWASP Top 10 2020 later this year."
-  style:
-- image: michael_coates.jpg
-  name: Michael Coates
-  title: CEO and Co-founder
-  bio: "Michael Coates is the CEO & Co-founder of Altitude Networks. Michael has worked in the information security space for the past 15 years leading security at global organizations such as Twitter and Mozilla, protecting hundreds of millions of people worldwide.
-        <br>Michael was previously the Chief Information Security Officer at Twitter where his organization worked to protect users, systems, and data for nearly 300 million users. Prior to Twitter, Michael was the Director of Product Security at Shape Security. In this role Michael worked with a specialized team to drastically change the way organizations defend their applications against modern application attacks. Prior, Michael was head of security for Mozilla where he built and led the security assurance program to protect nearly half a billion Firefox users, Mozilla web applications, and infrastructure.
-        <br>Michael has also served on the global board of directors for OWASP, the largest non-profit application organization in the world. Michael was a member of the board for six years, three of those years as the chairman.
-        <br>Before building and leading security programs, Michael assessed, compromised, and secured applications and networks for some of the largest banks, governments, and enterprises around the world.
-        <br>Michael is an early stage investor and advisor to multiple startups and was also honored to be selected as an SC Magazine Influential Security Mind. Michael is based in San Francisco with his wife, two children, and two dogs."
-  subject: "Building and growing an application security team - lessons from a CISO perspective"
-  abstract: "Application security is already a challenging and complex field. Add to that the challenge of building and maintaining a talented security organization, forging internal alliances, and positioning the application security program as an enabler versus a cost center. It's quite the challenge! In this speed talk we'll cover strategies and tips for building a successful application security program within a business from someone who started the web security program at Mozilla, was CISO at Twitter and had roots as a security practitioner for many years."
-  style: "background-position: calc(50% - 40px) 50%"
-- image: mark_goodwin.jpg
-  name: Mark Goodwin
-  title: Software Security Specialist
-  bio: "Mark is a software security specialist with decades of experience in building and securing Internet facing systems. Mark currently works for Mozilla on the Firefox web browser."
-  subject: "Certificate Revocation: Past, Present, Future"
-  abstract:
-  style:
+# - image: ajv_headshot.png
+#   name: Andrew van der Stock
+#   title: 
+#   bio: "Andrew is a long-standing contributor to and member of OWASP, having lead the OWASP Developer Guide 2.0, OWASP Top 10 2007 and 2017, and Application Security Verification Standard projects. He was previously a board member from 2015-2018. He is currently working on the OWASP Top 10 2020."
+#   subject: OWASP Top 10 2020 
+#   abstract: "The OWASP Top 10 2020 is coming. The OWASP Top 10 is one of OWASP's core flagship projects, and for better or worse, despite being an awareness document, is commonly used as a standard. Therefore, we need to get it right and include the application security community's buy-in on the risks and mitigations. Learn about the current progress, what needs to be done, and how you can help by contributing data and expertise. We plan to release the OWASP Top 10 2020 later this year."
+#   style:
