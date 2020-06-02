@@ -12,10 +12,13 @@ jobs:
           - name: Update this repo with items from remote repo
             run: |
               # clone the first repo
+              echo "1"
               git clone https://github.com/owasp/www-event-2020-06-virtual ~/www-event-2020-06-virtual
               # copy the file into the data dir
+              echo "2"
               cp  ~/_data/sponsors.yml ~/www-event-2020-06-virtual/_data/sponsors.yml
               git config --global user.name 'Harold Blankenship'
               git config --global user.email 'hblankenship@owasp.com'
               git commit -m "Automated update of sponors.yml"
+              echo "3"
               git push https://github.com/owasp/www-event-2020-06-virtual master
