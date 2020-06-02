@@ -2,10 +2,10 @@ name: Sponsors Update
 on:
   push:
     branches:
-      - master
+      [master]
 
 jobs:
-    deploy:
+    update:
         runs-on: [ubuntu-latest]
         steps:
           - uses: actions/checkout@master
@@ -14,7 +14,7 @@ jobs:
               # clone the first repo
               git clone https://github.com/owasp/www-event-2020-06-virtual ~/www-event-2020-06-virtual
               # copy the file into the data dir
-              cp  ~/_data/sponsors.yml www-event-2020-06-virtual/_data/sponsors.yml
+              cp  ~/_data/sponsors.yml ~/www-event-2020-06-virtual/_data/sponsors.yml
               git config --global user.name 'Harold Blankenship'
               git config --global user.email 'hblankenship@owasp.com'
               git commit -m "Automated update of sponors.yml"
