@@ -1,5 +1,5 @@
 # when sponsors.yml updates, push to 3 sub-sites
-name: Sponsors Update
+name: SponsorsUpdate
 on:
   push:
     branches:
