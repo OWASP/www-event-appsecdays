@@ -43,6 +43,6 @@ layout: event
 
 {{ site.data.event-details.pitch | markdownify }}
 
- **[Check out our sponsors for a chance to win some cool prizes](https://appsecdays.org/sponsors/swag/)**
+ **[Check out our sponsors for a chance to win some cool prizes](https://appsecdays.org/swag/)**
 
 
