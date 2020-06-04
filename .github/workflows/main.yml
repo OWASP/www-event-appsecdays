@@ -26,5 +26,5 @@ jobs:
               git add _data/sponsors.yml
               git commit -m "Automated update of sponors.yml"
               echo "4"
-              git push 
+              git push https://github.com/www-event-2020-06-virtual
               echo "5"
