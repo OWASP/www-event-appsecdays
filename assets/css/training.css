@@ -1,5 +1,5 @@
 .training-header {
-
+	margin-bottom:16px;
 }
 
 .trainer-header{
@@ -36,6 +36,7 @@
 
 .bio-container {
 	margin-left: 1em;
+	margin-bottom: 2em;
 }
 
 .no-margin {

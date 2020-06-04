@@ -14,7 +14,7 @@
         unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as @7asecurity 
         @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and 
         recordings can be found at https://7asecurity.com/publications"
-      TrainerId: abraham_aranguren
+      TrainerId: abraham_aranguren_01
   Title: "Hacking Modern Desktop apps: Master the Future of Attack Vectors"
   URL: https://june.appsecdays.org/register/?id=sku_HOtVrdqEkulPjf
   SectionId: sku_HOtVrdqEkulPjf
@@ -161,7 +161,7 @@
         DefCon-2019, BlackHat USA 2019, AppSecCali-2020 and many more. In his spare time, he loves reading about 
         personal finance, leadership, fitness, cryptocurrency, and other such topics. Nithin is an avid traveler 
         and loves sharing stories over a cup of hot coffee."
-      TrainerId: nithin_jois
+      TrainerId: nithin_jois_01
   Title: "Attacking and Defending Containers and Kubernetes"
   URL: https://june.appsecdays.org/register/?id=sku_HOtd9tZbZM8NWp
   SectionId: sku_HOtd9tZbZM8NWp
@@ -293,7 +293,7 @@
         Pipeline & DefectDojo projects. The AppSec Pipeline project brings lessons from DevOps and Agile into Application Security while 
         DefectDojo is an application that is the source of truth for DevSecOps activities and ingests output from 63 different security tools. 
         He holds two degrees from Texas A&M University and several security and Linux certifications."
-      TrainerId: matt_tesauro
+      TrainerId: matt_tesauro_02
   Title: "Container Security Crash Course"
   URL: https://june.appsecdays.org/register/?id=sku_HOtjMDJjghGmHB
   SectionId: sku_HOtjMDJjghGmHB
@@ -342,7 +342,7 @@
         Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as 
         @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and recordings can be found 
         at https://7asecurity.com/publications"
-      TrainerId: abraham_aranguren
+      TrainerId: abraham_aranguren_02
   Title: "Hacking Modern Web apps: Master the Future of Attack Vectors"
   URL: https://july.appsecdays.org/register/?id=sku_HOtoAiWFO6u23G
   SectionId: sku_HOtoAiWFO6u23G
@@ -413,7 +413,7 @@
          mentoring, advocating for and enabling countless other women in her field. 
          As a professional computer geek of 20+ years, she is a person who is truly 
          fascinated by the ‘science’ of computer science."
-      TrainerId: tanya_janca
+      TrainerId: tanya_janca_01
   Title: Application Security 101
   URL: https://july.appsecdays.org/register/?id=sku_HOts6ZxZnmJERL
   SectionId: sku_HOts6ZxZnmJERL
@@ -445,7 +445,7 @@
         Nithin was a trainer and speaker at events like AppSecDC-2019, AppSecUS-2018, SHACK-2019, AppSecCali-2019, DefCon-2019, BlackHat USA 2019, 
         AppSecCali-2020 and many more. In his spare time, he loves reading about personal finance, leadership, fitness, cryptocurrency, and other such 
         topics. Nithin is an avid traveler and loves sharing stories over a cup of hot coffee."
-      TrainerId: nithin_jois
+      TrainerId: nithin_jois_02
   Title: Secrets of Secrets - Managing Secrets and Sensitive Information in Cloud Native Environments
   URL: https://july.appsecdays.org/register/?id=sku_HPAcROmtV0SrQP
   SectionId: sku_HPAcROmtV0SrQP
@@ -678,7 +678,7 @@
         He has over 20 years of Linux experience and 7 years of using Linux containers, 
         primarily Docker. Matt holds two degrees from Texas A&M University and several security 
         and Linux certifications.
-      TrainerId: matt_tesauro
+      TrainerId: matt_tesauro_01
   Title: OWASP DefectDojo - the Heart of your AppSec Automation
   URL: https://july.appsecdays.org/register/?id=sku_HOtzSxdpFJbvJB
   SectionId: sku_HOtzSxdpFJbvJB
@@ -768,7 +768,7 @@
         Twitter as @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple 
         presentations, pentest reports and recordings can be found at 
         https://7asecurity.com/publications"
-      TrainerId: abraham_aranguren
+      TrainerId: abraham_aranguren_03
   Title: Hacking Android & IoT apps by Example
   URL: https://august.appsecdays.org/register/?id=sku_HOuEQL4zzGCjEu
   SectionId: sku_HOuEQL4zzGCjEu
@@ -862,7 +862,7 @@
         initiative, and personally mentoring, advocating for and enabling countless other 
         women in her field. As a professional computer geek of 20+ years, she is a person 
         who is truly fascinated by the ‘science’ of computer science."
-      TrainerId: tanya_janca
+      TrainerId: tanya_janca_02
   Title: DevSecOps with GitHub Actions and Azure
   URL: https://august.appsecdays.org/register/?id=sku_HOuHivnpOAdYcB
   SectionId: sku_HOuHivnpOAdYcB
