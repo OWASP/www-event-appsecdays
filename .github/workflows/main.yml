@@ -21,7 +21,7 @@ jobs:
               cp  _data/sponsors.yml ~/www-event-2020-06-virtual/_data/sponsors.yml
               echo "3"
               cd ~/www-event-2020-06-virtual
-              git config --global user.name 'hblankenship'
+              git config --global user.name 'Harold Blankenship'
               git config --global user.email 'harold.blankenship@owasp.org'
               git add _data/sponsors.yml
               git commit -m "Automated update of sponors.yml"
