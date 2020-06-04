@@ -487,38 +487,25 @@
   Title: API Attacks Beyond the OWASP API Top 10
   URL: https://july.appsecdays.org/register/?id=sku_HOtty6RFWsLTAd
   SectionId: sku_HOtty6RFWsLTAd
-  Description: "<strong>Learning Objectives:</strong><br>
-    Identify how API endpoints can be enumerated<br>
-    Understand API call structure<br>
-    Find Parameters that can be used to attack an API<br>
-    How to identify attack patterns<br>
-    <strong>Agenda:</strong><br>
-    <ul>
-    <li>Intros, Housekeeping, How it all works</li>
-    <li>What is an API</li>
-    <li>What is the OWASP API Top 10</li>
-    <li>Common platform architectures for APIs</li>
-    <li>A look at finding API endpoints
-        <ul>
-        <li>APK Tools</li>
-            <ul><li>Install and pull API endpoints from an Android application</li></ul> 
-        <li>Intercept Proxies</li>
-        <li>Any-Api</li></ul>
-    </li>
-    <li>API Requests and API Parameters
-        <ul>
-        <li>cURL/Intercept Proxies</li>
-        <li>API methods (Put, Post, Delete etc…)</li>
-        </ul>
-    </li>
-    <li>Attacker Tools</li>
-    <li>Common Attacks</li>
-    <ul>
-        <li>Account Take Over</li> 
-        <li>Inventory Take Over/Seat Spinning</li>
-        <li>Scraping</li>
-    </ul>
-    <li>Wrap-up</li></ul>"
+  Description: "Let’s face it, APIs are running the world.  3rd party integrations are everywhere from social media communication to integrations 
+    allowing services to share platforms and data.  As developers race to create platforms with greater connectivity and functionality, shortcuts are 
+    taken, errors are made, specifications ignore – resulting in the release of insecure APIs.  No longer are front end services and frameworks enough 
+    to protect the APIs from new world, high-speed attacks.<br>
+    Over the last 20 years as a hacker, researcher, and educator I have worked with many organizations to help them stop high-speed attacks as well as 
+    sophisticated fraudsters that are constantly on the lookout for the next venue to ply their trade.  In addition to case studies derived from actual 
+    attacks I will show how I was able to attack a garage door opener API and via responsible disclosure create a much safer platform for Chamberlain 
+    customers/users to control entry into their homes.<br>
+    In this 8-hour class we will talk about API attacks my company has seen against different types of platforms and compare common real-world attack 
+    types to the API Top 10.<br>
+    We will look at taking apart Android API calls, utilizing an open-source APK disassembly tool, for mobile applications and understand the attack 
+    surface available.  This tool will be distributed via a docker container so students should have the ability to run a docker.<br>
+    From a web application standpoint we will learn how to analyze API calls, API parameters and how to utilize simple tools like cURL or your favorite 
+    intercept proxy, to make calls against APIs and understand the workflow to test against a range of use cases such as Account Take Over, Inventory 
+    Take Over/Seat Spinning, Inventory Take Over, etc.<br>
+    Attackers often have tools at their disposal that target specific organizations, we will highlight these tools and how they work.<br>
+    Finally, we will look at some Case Studies from various places that we have seen attacks occur and current attack campaigns that have thwarted the 
+    efforts of many security practitioners and development staff.  We will have a cloud environment built allowing for newly minted API security 
+    enthusiasts to try techniques and view their attacks and fingerprints in real time."
 - Type: July Training
   Trainers:
     - Name: Aleksandr Kolchanov
