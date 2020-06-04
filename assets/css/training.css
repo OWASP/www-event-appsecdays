@@ -14,7 +14,7 @@
 .training-container{
 	height:90px;
 	width: 100%;
-	padding-left: 2em;
+	padding-left: 0;
 }
 
 .trainer-container {
@@ -24,10 +24,10 @@
 .trainer-container-mobile {
 	display:none;
 }
-
+/* 
 .trainer-section:nth-child(even){
 	background-color: #f3f4f6;
-}
+} */
 
 .info-container{
 	padding-left:.5em;
