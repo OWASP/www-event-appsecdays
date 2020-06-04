@@ -8,8 +8,6 @@
       url : https://july.appsecdays.org
     - title: August
       url : https://august.appsecdays.org
-    - title: April (past)
-      url : https://april.appsecdays.org
     - title: Capture the Swag
       url : /swag/
 - title: SPONSORING
@@ -18,6 +16,8 @@
   items:
     - title: How to Connect
       url : /venue/about/
+    - title: April (past)
+      url : https://april.appsecdays.org
     - title: OWASP Foundation
       url  : https://owasp.org/
       opentab: true
