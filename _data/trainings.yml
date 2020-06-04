@@ -366,51 +366,9 @@
   Title: From OWASP Top 10 To Command Shell
   URL: https://july.appsecdays.org/register/?id=sku_HOtp0eVxTbZwFj
   SectionId: sku_HOtp0eVxTbZwFj
-  Description: "Course Outline:<br>
-        Discovery and Reconnaissance Tools Mastery<br>
-        <ol>
-        <li>Learn how to use basic discovery tools such as Nmap, Hping3 and others to find reachable ports and services.
-            <ol> 
-                <li>30-minute lecture and demonstration</li>
-                <li>30 minute lab session</li>
-            </ol>
-        </li>
-        <li>Learn how to enumerate services to identify version information and service footprints.
-            <ol> 
-                <li>30-minute lecture and demonstration</li>
-                <li>30-minute lab session</li>
-            </ol>
-        </li>
-        <li>After applications are discovered learn how to map application functionality and establish potential vulnerability profiles. 
-            <ol>
-                <li>30-minute lecture and demonstration</li>
-                <li>1 hour lab session</li> 
-            </ol>
-        </li>
-        </ol>
-        Web App Exploitation Tools and Techniques Mastery<br>
-        <ol>
-        <li>Learn how to map potential vulnerabilities to known exploits and exploit vectors.
-            <ol> 
-                <li>30-minute lecture and demonstration</li>
-                <li>30-minute lab session</li>
-            </ol>
-        </li>
-        <li>Learn how to Exploit Discovered Web Application Vulnerabilities
-            <ol> 
-                <li>30-minute lecture</li>
-                <li>1 hour lab session</li>
-            </ol>
-        </li>
-        </ol>
-        Owning the OS from the Web App (All Hands on Walkthrough Lab sessions) - 2 hours<br>
-        <ol>
-        <li> Getting a shell via the web app vulnerability</li>
-        <li>Privilege Escalation via Powershell</li>
-        <li>15-minute break</li>
-        <li>Creating your own backdoor from scratch</li>
-        <li>Privilege Escalation via the created backdoor</li>
-        </ol>"
+  Description: "This will be a hands-on lab driven technical deep-dive.  From XSS, SQLi, To Complete System Compromise. We will examine several 
+    common OWASP Top 10 vulnerabilities, then go deeper by obtaining shell access, then root/system level control of the owned devices. These 
+    techniques are often game-changers when explaining the vulnerabilities to others."
 - Type: July Training
   Trainers:
     - Name: Michael Furman
@@ -468,6 +426,32 @@
     <li>Setting Standards and Policies (with take home examples to start you off)</li>
     <li>Metrics and Improvement - Learn which metrics really matter, how to measure, and then how to use your data to improve your program to reach maximum efficiency and security.</li>
     <li>Goals: time to adjust, improve, and make a complete plan to achieve your AppSec goals.</li></ol>"
+- Type: July Training
+  Trainers:
+    - Name: Nithin Jois
+      Email: nithin.jois@we45.com
+      Image: https://july.appsecdays.org/assets/images/trainers/trainer-nithin-jois.png
+      Twitter: bondijois
+      Biography: "Nithin Jois is a Solutions Engineer at we45 - a focused Application Security company. He has helped build ‘Orchestron’ - A leading 
+        Application Vulnerability Correlation and Orchestration Framework. He is experienced in Orchestrating containerized deployments securely to 
+        Production. Nithin and his team have extensively used Docker APIs as a cornerstone to most of we45 developed security platforms and he has 
+        also helped clients of we45 deploy their Applications securely.<br>
+        Nithin is a passionate Open Source enthusiast and is the co-lead-developer of ThreatPlaybook - An Open Source framework that facilitates Threat 
+        Modeling as Code married with Application Security Automation on a single Fabric. He has also written multiple libraries that complement 
+        ThreatPlaybook.<br>
+        Nithin is an automation junkie who has built Scalable Scanner Integrations that leverage containers to the hilt and is passionate about Security, 
+        Containers and Serverless technology. He speaks at meetup groups, webinars and training sessions. He participates in multiple CTF events and has 
+        worked on creating Intentionally Vulnerable Applications for CTF competitions and Secure Code Training.<br>
+        Nithin was a trainer and speaker at events like AppSecDC-2019, AppSecUS-2018, SHACK-2019, AppSecCali-2019, DefCon-2019, BlackHat USA 2019, 
+        AppSecCali-2020 and many more. In his spare time, he loves reading about personal finance, leadership, fitness, cryptocurrency, and other such 
+        topics. Nithin is an avid traveler and loves sharing stories over a cup of hot coffee."
+      TrainerId: nithin_jois
+  Title: Secrets of Secrets - Managing Secrets and Sensitive Information in Cloud Native Environments
+  URL: https://july.appsecdays.org/register/?id=sku_HPAcROmtV0SrQP
+  SectionId: sku_HPAcROmtV0SrQP
+  Description: The aim of this program is to delve deep into managing secrets and sensitive information with Cloud Native environments. We will look at 
+    some common security mistakes and anti-patterns and explore the various tools, techniques and approaches to securing secrets and sensitive 
+    information through hands-on labs quite extensively.
 - Type: July Training
   Trainers:
     - Name: Jason Kent
