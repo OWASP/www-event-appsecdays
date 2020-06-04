@@ -8,7 +8,7 @@ jobs:
     update:
         runs-on: [ubuntu-latest]
         steps:
-          - uses: actions/checkout@master
+          - uses: actions/checkout@v2
           - name: Update this repo with items from remote repo
             run: |
               # clone the first repo
@@ -21,6 +21,7 @@ jobs:
               cd ~/www-event-2020-06-virtual
               git config --global user.name 'Harold Blankenship'
               git config --global user.email 'hblankenship@owasp.com'
+              git add _data/sponsors.yml
               git commit -m "Automated update of sponors.yml"
               echo "4"
               git push https://github.com/owasp/www-event-2020-06-virtual master
