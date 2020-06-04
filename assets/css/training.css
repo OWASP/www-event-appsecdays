@@ -54,6 +54,18 @@
 	background-position:center;
 }
 
+.active {
+	background-color: lightgray;	
+	padding: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-style: solid;
+	border-top: 1px;
+	border-left: 1px;
+	border-right: 1px;
+	border-bottom: 0px;
+}
+
 
 @media (max-width: 1024px) {
 	

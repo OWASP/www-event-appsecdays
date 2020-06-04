@@ -1,5 +1,7 @@
 - title: PROGRAM
   items:
+    - title: All Trainings
+      url: /trainings/
     - title: June
       url : https://june.appsecdays.org
     - title: July
