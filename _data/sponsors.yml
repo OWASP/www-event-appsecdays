@@ -1,18 +1,15 @@
 
-   type: other
+  
  - logo: https://owasp.org/assets/images/corp-member-logo/acunetix.png
    name: Acunetix
    url: https://www.acunetix.com/web-vulnerability-scanner/us-demo/?utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2
-   type: other
  - logo: https://owasp.org/assets/images/corp-member-logo/bridgecrew.png
    name: Bridgecrew
    url: https://bridgecrew.io/event/owasp-summer-of-security-raffle/
-   type: other
  - logo: https://owasp.org/assets/images/corp-member-logo/checkmarx.png
    name: Checkmarx
    url: https://info.checkmarx.com/event-owasp-virtual-appsec-demo?utm_medium=event&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2&utm_search_query=Demo
-   type: other
  - logo: https://owasp.org/assets/images/corp-member-logo/netsparker.png
    name: Netsparker
    url:  https://www.netsparker.com/get-demo/?ab=v3&utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-n-events-tradeshow-owaspvirtualappsec2
-   type: 
+    
