@@ -4,9 +4,9 @@
    name: Acunetix
    url: https://www.acunetix.com/web-vulnerability-scanner/us-demo/?utm_medium=events&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2
    type: 
- - logo: https://owasp.org/assets/images/corp-member-logo/bridgecrew.png/event-owasp-virtual-appsec-demo?utm_medium=event&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2&utm_search_query=Demo
+ - logo: https://owasp.org/assets/images/corp-member-logo/bridgecrew.png
    name: Bridgecrew
-   url: https://bridgecrew.io/event/owasp-summer-of-security-raffle/ 
+   url: https://bridgecrew.io/event/owasp-summer-of-security-raffle//event-owasp-virtual-appsec-demo?utm_medium=event&utm_source=tradeshow&utm_campaign=2020-q2-a-events-tradeshow-owaspvirtualappsec2&utm_search_query=Demo
    type: 
  - logo: https://owasp.org/assets/images/corp-member-logo/checkmarx.png
    name: Checkmarx
