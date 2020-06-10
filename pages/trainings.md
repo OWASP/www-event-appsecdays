@@ -14,15 +14,18 @@ permalink: /trainings/
 **Training subject to change based on trainer availability.**
 {% if site.data.trainings.size > 0 %}
 
-{% assign jtrainings = site.data.trainings | where: 'Type', 'June Training' | sort: 'Title' %}
-{% assign ytrainings = site.data.trainings | where: 'Type', 'July Training' | sort: 'Title' %}
+{% assign jtrainings = site.data.trainings | where: 'Type', 'June Training' | sort: 'Title' %} 
+{% assign ytrainings = site.data.trainings | where: 'Type', 'July Training' | sort: 'Title' %} 
 {% assign atrainings = site.data.trainings | where: 'Type', 'August Training' | sort: 'Title' %}
 
-<a id='jtrainings' class='active'>June Trainings</a>
-<a id='ytrainings' class='inactive'>July Trainings</a>
+<a id='jtrainings' class='active'>June Trainings</a> |
+<a id='ytrainings' class='inactive'>July Trainings</a> |
 <a id='atrainings' class='inactive'>August Trainings</a>
 
 <div id='June' style='display:block;'>
+
+<strong>Please note: All courses take place simultaneously over two days, only register for one for this month</strong>
+
 {% for trainer in jtrainings %}
 <section class="trainer-section" id="{{trainer.SectionId}}">
 <hr>
@@ -39,6 +42,7 @@ permalink: /trainings/
 {% endfor %}
 </div>
 <div id='July' style='display:none;'>
+<strong>Please note: All courses take place simultaneously over two days, only register for one for this month</strong>
 {% for trainer in ytrainings %}
 <section class="trainer-section" id="{{trainer.SectionId}}">
 <hr>
@@ -55,6 +59,7 @@ permalink: /trainings/
 {% endfor %}
 </div>
 <div id='August' style='display:none;'>
+<strong>Please note: All courses take place simultaneously over two days, only register for one for this month</strong>
 {% for trainer in atrainings %}
 <section class="trainer-section" id="{{trainer.SectionId}}">
 <hr>
