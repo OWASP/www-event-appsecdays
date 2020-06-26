@@ -16,9 +16,9 @@ You will need to enter your name and email address in order to gain access to th
 You may also receive communications from the instructor with specific requirements or pre-work for your course. 
 {% else %}
 <br>
-### [Register for June](https://june.appsecdays.org/)
-### [Register for July](https://july.appsecdays.org/)
-### [Register for August](https://august.appsecdays.org/)
+### [Join us in June](https://june.appsecdays.org/)
+### [Join us in July](https://july.appsecdays.org/)
+### [Join us in August](https://august.appsecdays.org/)
 <br>
 {% endif %}
 
